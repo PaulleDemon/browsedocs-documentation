@@ -15,5 +15,32 @@
     "sponsor": { 
         "github": "PaulleDemon",
         "buymeacoffee": "artpaul"
-    }
+    },
+    "sidebar": [
+        {
+            "name": "Introduction",
+            "path": "docs/index.md",
+            "url": "introduction/"
+        },
+        {
+            "name": "Project",
+            "path": "docs/project/index.md",
+            "url": "project-creation/"
+        },
+        {
+            "name": "Documentation",
+            "path": "docs/project/extending_docs.md",
+            "url": "docs-creation/"
+        },
+        {
+            "name": "Tutorials",
+            "path": "docs/tutorial/index.md",
+            "url": "tutorial-creation/"
+        },
+        {
+            "name": "Blog Creation",
+            "path": "docs/blog/index.md",
+            "url": "blog-creation/"
+        }
+    ]
 }
