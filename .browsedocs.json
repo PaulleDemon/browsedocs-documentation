@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0",
+    "unique_name": "browsedocs",
+    "project_name": "browsedocs",
+    "about": "Browsedocs is a simple and powerful documentation hosting tool. Make use of this to document your libraries and tools",
+    "source": "docs/", 
+    "source_code": "https://github.com/PaulleDemon/browsedocs",
+    "doc_type": "pgm-lng",
+    "project_logo": "https://github.com/PaulleDemon/BrowseDocs/raw/master/logos/browsedocs.svg", 
+    "additional_links": {
+        "Examples browsedocs.json": "https://github.com/PaulleDemon/browsedocs-documentation"
+    },
+    "authors": ["Paul"], 
+    "tags": "documentation",
+    "sponsor": { 
+        "github": "PaulleDemon",
+        "buymeacoffee": "artpaul"
+    }
+}
