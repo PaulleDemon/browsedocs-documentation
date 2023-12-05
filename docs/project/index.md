@@ -10,12 +10,12 @@ To create a project, first make sure you have logged in.
 * You will see a dropdown, click on create Documentation
 
 <p align="center">
-    <img src="../../images/create-doc.png" alt="create doc" style="max-width: 150px;">
+    <img src="https://github.com/PaulleDemon/browsedocs-documentation/blob/main/images/create-doc.png" alt="create doc" style="max-width: 150px;">
 </p>
 
 * Now import your desired project.
 <p align="center">
-    <img src="../../images/select-repo.png" alt="create doc" style="max-height: 150px;">
+    <img src="https://github.com/PaulleDemon/browsedocs-documentation/blob/main/images/select-repo.png" alt="create doc" style="max-height: 150px;">
 </p>
 
 * Ensure your repository has readme.md or someother documenation file.
@@ -25,7 +25,7 @@ To create a project, first make sure you have logged in.
 * fill in the appropriate fields and click on save at the bottom.
 
 <p align="center">
-    <img src="../../images/create-project.png" alt="create doc" style="max-height: 250px;">
+    <img src="https://github.com/PaulleDemon/browsedocs-documentation/blob/main/images/create-project.png" alt="create doc" style="max-height: 250px;">
 </p>
 
 * Thats it your project is created, once your documenation is ready you'll receive an email.
@@ -77,5 +77,5 @@ Some of the configurations are as listed below
 
 ### sharing your documentation
 
-* Short url: you can paste the unique_id after the `browsedocs.com`.
+* Short url: you can paste the unique_id after the `browsedocs.com`, it will look something along `bWXP7P4Tpxhz` so example: https://browsedocs.com/bWXP7P4Tpxhz/
 * The shortened url can be retrieved either from your email or from the url of the documentation
